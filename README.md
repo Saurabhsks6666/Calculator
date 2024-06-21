@@ -5,13 +5,17 @@ Instructins for how to run project:
 Step-1:  Clone the Repository:
          Open your terminal and run the following command to clone the repository:
          git clone https://github.com/Saurabhsks6666/Calculator.git
+
 Step-2:  Navigate to the Project Directory:
          Change into the project directory:
          cd Calculator
+
 Step-3:  Install Dependencies:
          Make sure you have Node.js and npm installed. Then, install the required dependencies by running:
          npm install
+
 Step-4:  Start the Development Server:
          After the dependencies are installed, start the development server with:
          npm start
+
 Thats All!
